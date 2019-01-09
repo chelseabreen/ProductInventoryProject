@@ -1,0 +1,7 @@
+C:\Users\Chelsea\Source\Repos\ProductInventoryProject\ProductInventoryProject\bin\Debug\ProductInventoryProject.exe.config
+C:\Users\Chelsea\Source\Repos\ProductInventoryProject\ProductInventoryProject\bin\Debug\ProductInventoryProject.exe
+C:\Users\Chelsea\Source\Repos\ProductInventoryProject\ProductInventoryProject\bin\Debug\ProductInventoryProject.pdb
+C:\Users\Chelsea\Source\Repos\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.csprojAssemblyReference.cache
+C:\Users\Chelsea\Source\Repos\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.csproj.CoreCompileInputs.cache
+C:\Users\Chelsea\Source\Repos\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.exe
+C:\Users\Chelsea\Source\Repos\ProductInventoryProject\ProductInventoryProject\obj\Debug\ProductInventoryProject.pdb
